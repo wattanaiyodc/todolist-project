@@ -23,7 +23,7 @@ interface UpdateTaskInput {
 }
 
 // API Configuration
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3000/api';
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL;
 
 // API Functions
 const api = {
