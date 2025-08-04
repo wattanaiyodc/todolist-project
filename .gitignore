@@ -1,0 +1,16 @@
+# node_modules
+my-todo-app/node_modules
+todo-api/node_modules
+
+# Build outputs
+my-todo-app/.next
+todo-api/dist
+
+# Env files
+my-todo-app/.env
+my-todo-app/.env.*
+todo-api/.env
+todo-api/.env.*
+
+# Logs
+*.log
